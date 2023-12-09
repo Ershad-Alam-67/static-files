@@ -1,0 +1,4 @@
+{
+    img1:"https://www.houseofeurope.com.au/wp-content/uploads/2021/08/Screen-Shot-2021-07-16-at-9.49.36-am.jpg",
+    img2:"https://1937169732.rsc.cdn77.org/images/block1_745.jpg?1639755642"
+}
